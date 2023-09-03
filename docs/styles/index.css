@@ -1,0 +1,23 @@
+body {
+    background-color: #FC3692;
+}
+
+#head-div {
+    background-color: #2E294E;
+    text-align: center; /* Center the text vertically and horizontally */
+    overflow: hidden;
+}
+
+#top-bar {
+    background-color: #181528;
+}
+
+body, #head-div {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: 'ADLaM Display', cursive;
+    color: #F1E9DA;
+}
